@@ -975,7 +975,7 @@ class MainWindow(QWidget):
         current_version.setAlignment(Qt.AlignCenter)
         version_layout.addWidget(current_version)
         
-        self.update_status_lbl = QLabel("github://praveenk/lyricspalsh")
+        self.update_status_lbl = QLabel("https://github.com/praveenkurup/lyricsplash")
         self.update_status_lbl.setObjectName("status")
         self.update_status_lbl.setAlignment(Qt.AlignCenter)
         version_layout.addWidget(self.update_status_lbl)
