@@ -1,0 +1,19 @@
+/env
+/lyrics
+/__pycache__
+/build
+/dist
+/Marketting
+/Output
+.conf
+.conf_backup_20250812_121231
+creds.json
+creds.txt
+inno compliation script.iss
+lyricsplash.spec
+Porcelain.ttf
+test_activation_ui.py
+test_update_dialog.py
+test_update.py
+test.py
+test2.py
